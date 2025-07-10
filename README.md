@@ -2,10 +2,6 @@
 
 A Streamlit web app that predicts the winning probability of an IPL team based on current match stats using a trained machine learning model.
 
-## 🚀 Live Demo
-[Try it here](https://divya1011-design-ipl-win-predictor.streamlit.app)
-
-
 ## 🧠 Features
 - Select batting & bowling team, city, score, overs, and wickets
 - See real-time win/loss probabilities
