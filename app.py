@@ -1,10 +1,12 @@
 import streamlit as st
-import pickle
+import joblib
 import pandas as pd
 from PIL import Image
 
 # Load trained pipeline
-pipe = pickle.load(open('pipe.pkl', 'rb'))
+pipe = joblib.load('pipe.pkl')
+
+
 
 # Teams and Cities
 teams = ['Sunrisers Hyderabad', 'Mumbai Indians', 'Royal Challengers Bangalore',
