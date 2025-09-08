@@ -17,15 +17,16 @@ A Streamlit web app that predicts the winning probability of an IPL team based o
 - pandas
 - pickle
 
+##👩‍💻 Author
+
+Developed with ❤️ by Divya Sharma
+
+[GitHub](https://github.com/Divya1011-design)
+
+[LinkedIn](linkedin.com/in/divya-sharma-i)
+
 ## ▶️ Run It Locally
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
 
-##👩‍💻 Author
-
-Developed with ❤️ by Divya Sharma
-
-GitHub: https://github.com/Divya1011-design
-
-LinkedIn: linkedin.com/in/divya-sharma-i
