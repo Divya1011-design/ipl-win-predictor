@@ -19,7 +19,7 @@ A Streamlit web app that predicts the winning probability of an IPL team based o
 
 ##👩‍💻 Author
 
-Developed with ❤️ by Divya Sharma
+Developed by Divya Sharma
 
 [GitHub](https://github.com/Divya1011-design)
 
